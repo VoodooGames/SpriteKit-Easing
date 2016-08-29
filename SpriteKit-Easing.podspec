@@ -12,6 +12,6 @@ Pod::Spec.new do |s|
   s.license      = { :type => "zlib", :file => "LICENSE" }
 
   s.source       = { :git => "https://github.com/VoodooGames/SpriteKit-Easing.git", :branch => "master" }
-  s.source_files = "SpriteKit-Easing/**/*.{h,cpp}"
+  s.source_files = "SpriteKit-Easing/**/*.{h,cpp,c,m}"
 
 end
